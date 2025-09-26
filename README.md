@@ -6,7 +6,7 @@ I am the CEO of Unfinished Projects Inc. Extremely passionate about software eng
 
 - I don't need AI to make slop ✨
 - The only Clean code I know is the one that hasn't been written. 🗣️
-- Over 7 years of experience in non-comertial slop coding (the best kind of slop coding). 📈
+- Over 7 years of experience in non-commertial slop coding (the best kind of slop coding). 📈
 - I'm a fish but live above the C level. 🥶
 
 ## What slop do I make
@@ -22,6 +22,6 @@ I am the CEO of Unfinished Projects Inc. Extremely passionate about software eng
 
 ## Contact me
 
-Wanna collaborate? Tell me just how shit my code is?
+Want to collaborate? Tell me just how shit my code is?
 
-Feel free to message me on discord `@bbfh` or send a pegion my way `daforsastudia@gmail.com`!
+Feel free to message me on discord `@bbfh` or send a pigeon my way `daforsastudia@gmail.com`!
