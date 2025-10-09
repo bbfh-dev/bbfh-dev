@@ -16,7 +16,7 @@ I am the CEO of Unfinished Projects Inc. Extremely passionate about software eng
 - Tools (Go): [Parsex](https://github.com/bbfh-dev/parsex), [Mend](https://github.com/bbfh-dev/mend)
 - Data Packs (Minecraft): [Bubblellaneous](https://github.com/bbfh-dev/bubblellaneous-pack), [BubbleVehicles](https://modrinth.com/datapack/bubblevehicles)
 - Minecraft maps: [CrowScout I](https://www.planetminecraft.com/project/heyneighbor-1/)
-- Scripts (Bash): [Junction](https://github.com/bbfh-dev/junction.sh), [QRun, GoTo, GitCred](https://github.com/bbfh-dev/tools)
+- Scripts (Bash): [Junction](https://github.com/bbfh-dev/junction.sh), [GoTo](https://github.com/bbfh-dev/goto.sh), [Various bash tools](https://github.com/bbfh-dev/tools)
 - Spring Boot, JPA (Java): [TopJava Graduation project](https://github.com/bbfh-dev/topjava-graduation)
 - Other personal projects (Java, Python, C)
 
