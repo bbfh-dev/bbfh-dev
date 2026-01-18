@@ -13,11 +13,12 @@ I am the CEO of Unfinished Projects Inc. Extremely passionate about software eng
 
 - Design: [Eyecons](https://github.com/bbfh-dev/eyecons)
 - Websites (HTML, CSS, JavaScript): [My personal site](https://bbfh.me/), [Smithed Redesign](https://smithed.bbfh.me/) & other private ones
-- Tools (Go): [Parsex](https://github.com/bbfh-dev/parsex), [Mend](https://github.com/bbfh-dev/mend)
+- Tools (Go): [Mime](https://github.com/bbfh-dev/mime), [Parsex](https://github.com/bbfh-dev/parsex), [Mend](https://github.com/bbfh-dev/mend)
 - Data Packs (Minecraft): [Bubblellaneous](https://github.com/bbfh-dev/bubblellaneous-pack), [BubbleVehicles](https://modrinth.com/datapack/bubblevehicles)
 - Minecraft maps: [CrowScout I](https://www.planetminecraft.com/project/heyneighbor-1/)
 - Scripts (Bash): [Junction](https://github.com/bbfh-dev/junction.sh), [GoTo](https://github.com/bbfh-dev/goto.sh), [Various bash tools](https://github.com/bbfh-dev/tools)
 - Spring Boot, JPA (Java): [TopJava Graduation project](https://github.com/bbfh-dev/topjava-graduation)
+- Tree-sitters: [tree-sitter-mcfunction](https://github.com/bbfh-dev/tree-sitter-mcfunction)
 - Other personal projects (Java, Python, C)
 
 ## Contact me
