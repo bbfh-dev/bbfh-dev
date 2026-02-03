@@ -1,25 +1,20 @@
-## Hi, I'm BubbleFish
-
-I am the CEO of Unfinished Projects Inc. Extremely passionate about software engineering, if I get an idea, I make it happen (thus the number of projects I've created).
+# Check out my website [bbfh.me](https://bbfh.me)
 
 ## My qualities
 
-- I don't need AI to make slop ✨
-- The only Clean code I know is the one that hasn't been written. 🗣️
-- Over 7 years of experience in non-commertial slop coding (the best kind of slop coding). 📈
-- I'm a fish but live above the C level. 🥶
+- I am the CEO of Unfinished Projects Inc.
+- I don't need AI to make slop.
+- The only Clean code I know is the one that hasn't been written.
+- Over 7 years of experience in non-commercial slop coding (the best kind of slop coding).
+- I'm a fish but live above the C level.
 
 ## What slop do I make
 
-- Design: [Eyecons](https://github.com/bbfh-dev/eyecons)
-- Websites (HTML, CSS, JavaScript): [My personal site](https://bbfh.me/), [Smithed Redesign](https://smithed.bbfh.me/) & other private ones
-- Tools (Go): [Mime](https://github.com/bbfh-dev/mime), [Parsex](https://github.com/bbfh-dev/parsex), [Mend](https://github.com/bbfh-dev/mend)
-- Data Packs (Minecraft): [Bubblellaneous](https://github.com/bbfh-dev/bubblellaneous-pack), [BubbleVehicles](https://modrinth.com/datapack/bubblevehicles)
-- Minecraft maps: [CrowScout I](https://www.planetminecraft.com/project/heyneighbor-1/)
-- Scripts (Bash): [Junction](https://github.com/bbfh-dev/junction.sh), [GoTo](https://github.com/bbfh-dev/goto.sh), [Various bash tools](https://github.com/bbfh-dev/tools)
-- Spring Boot, JPA (Java): [TopJava Graduation project](https://github.com/bbfh-dev/topjava-graduation)
-- Tree-sitters: [tree-sitter-mcfunction](https://github.com/bbfh-dev/tree-sitter-mcfunction)
-- Other personal projects (Java, Python, C)
+- **Graphical design** — Design websites, icons, logotypes, and art pieces.
+- **Websites** — You can call me a full-stack engineer. Although the whole web is slop.
+- **Minecraft projects** — Create Minecraft adventure maps, data & resource packs.
+- **Tools** — Create tools & scripts for other developers to use (Go, Bash, Tree-sitter).
+- **Other personal projects** — Projects I haven't published/finished in Java, Python, C, and other languages.
 
 ## Contact me
 
